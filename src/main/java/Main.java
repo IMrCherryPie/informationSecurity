@@ -20,9 +20,9 @@ import java.util.Scanner;
 
             generateRandomRightsOfUser();
             //Цикл общения с пользователем
-            for (User user: USERS) {
+            /*for (User user: USERS) {
                 print(user);
-            }
+            }*/
             interfaceForMan();
         }
 
